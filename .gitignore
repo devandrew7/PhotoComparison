@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+SmartDupFinder/build/
+SmartDupFinder/dist/
+SmartDupFinder/SmartPhotoComparator.spec
+SmartDupFinder/smart_dup_finder_log.json
+restore_test_files.py
+SmartDupFinder/restore_test_files.py
